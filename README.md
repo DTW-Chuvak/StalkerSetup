@@ -1,6 +1,6 @@
 ## ⚠️ Important Note / Warning
 
-* **Language info:** Please note that the entire project and its code are written in **Russian**. 
+* **Language info:** Please note that the entire project written in **Russian**. 
 * **For Russian users:** Если вы плохо понимаете английский интерфейс GitHub, рекомендуется включить автопереводчик в браузере (Google Translate / Яндекс Переводчик), чтобы вам было проще ориентироваться на этой странице.
 
 ---

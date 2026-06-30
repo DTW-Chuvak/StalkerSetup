@@ -76,7 +76,7 @@ var socialus = new MetroButton
     Theme = MetroThemeStyle.Dark,
     Style = MetroColorStyle.Blue
 };
-socialus.Click += (s,e) => Process.Start(new ProcessStartInfo("https://vk.com/idstandoff185801691") { UseShellExecute = true});
+socialus.Click += (s,e) => Process.Start(new ProcessStartInfo("https://vk.com/**********") { UseShellExecute = true});
 socials.Controls.Add(socialus);
 
 var install = new MetroTabPage {Text = " Скачать тут ", Theme = MetroThemeStyle.Dark};
